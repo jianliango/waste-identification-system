@@ -1,5 +1,5 @@
-# Model files
-*.h5
+# Model files (tracked with Git LFS)
+# *.h5 - tracked with Git LFS
 *.pkl
 *.pth
 
